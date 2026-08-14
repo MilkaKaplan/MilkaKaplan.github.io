@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Ben-Gurion University of the Negev</a>. Beer Sheva, Israel.
 
 profile:
   align: right
