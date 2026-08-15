@@ -1,1 +1,9 @@
+:root {
+  --global-theme-color: #1F6FB2;   // тёмно-голубой (light-режим)
+  --global-hover-color: #14507F;   // при наведении
+}
 
+html[data-theme="dark"] {
+  --global-theme-color: #5AA9E6;   // светлее — чтобы читалось на тёмном фоне
+  --global-hover-color: #7FC0F0;
+}
